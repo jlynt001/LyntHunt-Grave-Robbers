@@ -35,7 +35,7 @@ package
 			_jumpHelp2 = new FlxPoint();
 			_jumpCount = 1000;
 			
-			acceleration.y = 800;
+			acceleration.y = 1000;
 		}
 		
 		override public function destroy():void
